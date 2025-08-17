@@ -39,4 +39,4 @@ const apiKey = 'TU_API_KEY_AQUI'; // Reemplaza por tu propia clave gratuita
 ## ⚡ Autor
 
 **Jorge Lagunas Aqueveque**  
-Proyecto realizado por mí, con estilo propio y mejores prácticas en JavaScript y CSS.
+Proyecto realizado por mí, adaptando y mejorando un tutorial de YouTube para agregar funcionalidad extra, estilo propio y mejores prácticas en JavaScript y CSS.
