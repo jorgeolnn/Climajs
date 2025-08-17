@@ -1,0 +1,64 @@
+/* Variables de colores para realizar llamado */
+
+:root {
+  --color-fondo-card: #9dbcf7;
+  --color-texto: #ffffff;
+  --color-principal: #6745fa;
+  --color-principal-hover: #16A34A;
+  --color-éxito: #22C55E;
+  --color-importante: #F97316;
+  --color-urgente: #DC2626;
+  --color-gradiente: #7f0ac3;
+  --color-gradeinte2: #e34df7;
+  --icon-hover: #631a6f;
+}
+
+
+/* Mini card del clima */
+.resultado {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  max-width: 300px;
+  margin: 20px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.resultado h5 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: var(--color-texto);
+}
+
+.resultado h2 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.resultado p {
+  font-size: 1rem;
+  margin: 0;
+  opacity: 0.9;
+}
+
+
+/* Card */
+
+/* .cards{
+    width: 400px;
+    background: linear-gradient(to bottom, var(--color-principal), var(--color-fondo-card));
+    font-family: 'Poppins', sans-serif;
+}
+
+.cardsh5{
+    color: var(--color-texto);
+}
+
+.inputsubmit{
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+} */
